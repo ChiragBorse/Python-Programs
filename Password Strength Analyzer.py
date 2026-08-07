@@ -1,7 +1,7 @@
 import re
 
 password = input("Enter Password: ")
-
+ 
 score = 0
 
 if len(password) >= 8:
