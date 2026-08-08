@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 from datetime import datetime
 
 class FocusFlow:
-    def __init__(self, root):
+    def __init__(self, root): 
         self.root = root
         self.root.title("FocusFlow - Productivity Timer")
         self.root.geometry("820x620")
