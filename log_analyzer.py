@@ -2,7 +2,6 @@ import re
 import os
 from collections import Counter
 from datetime import datetime
-
 # ============================================================
 # SERVER LOG ANALYZER
 # Single-file Python Project
